@@ -211,29 +211,6 @@ These commands provide a robust foundation for analyzing system activity, servic
 
 # Linux Forensics Command Toolkit
 
-This toolkit provides a collection of commands for system forensics, monitoring, and incident response. Organized into categories, it helps users investigate different aspects of a Linux system, such as network activity, user actions, and filesystem integrity.
-
----
-
-## Table of Contents
-
-1. [System Information](#system-information)
-2. [Network Activity](#network-activity)
-3. [User Activity](#user-activity)
-4. [File and Directory Analysis](#file-and-directory-analysis)
-5. [Memory & Process Investigation](#memory--process-investigation)
-6. [Service & Logs Analysis](#service--logs-analysis)
-7. [Service Specific Commands](#service-specific-commands)
-8. [Disk & Filesystem Analysis](#disk--filesystem-analysis)
-9. [Audit & Security Monitoring](#audit--security-monitoring)
-10. [Additional Utilities](#additional-utilities)
-11. [Examples](#examples)
-12. [Contributions](#contributions)
-13. [License](#license)
-14. [Support](#support)
-
----
-
 ## 1. System Information
 
 Commands to retrieve details about the system, including kernel version, hostname, uptime, and hardware information.
